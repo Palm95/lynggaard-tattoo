@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	
+	<title>Lynggaard Tattoo</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+
+	</head>
+	<body>
+	
+	<div class="main_wrapper">
+		<div class="header">
+			<div id="menu"><p>Galleri</p></div>
+			<div id="menu"><p>Andet</p></div>
+			<div id="menu"><p>LOGO</p></div>
+			<div id="menu"><p>Profil</p></div>
+			<div id="menu"><p>Kontakt</p></div>
+		</div>
+		<div class="slider">
+
+		</div>
+		<div class="content">
+
+		</div>
+		<div class="footer">
+
+		</div>
+	</div>
+
+
+	</body>
+</html>
